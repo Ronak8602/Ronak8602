@@ -11,5 +11,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronak8602&layout=compact)](https://github.com/Ronak8602)
 
 #### Connect with me here
-<a href="www.linkedin.com/in/ronak-prajapati-807243187"><img src="https://mpng.subpng.com/20180529/str/kisspng-linkedin-computer-icons-logo-professional-network-social-networks-5b0d65b29ec943.2054111815276046586504.jpg" width="50" /></a>
+<a href="www.linkedin.com/in/ronakprajapati107"><img src="https://mpng.subpng.com/20180529/str/kisspng-linkedin-computer-icons-logo-professional-network-social-networks-5b0d65b29ec943.2054111815276046586504.jpg" width="50" /></a>
 <a href="https://github.com/Ronak8602"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="45" /></a>
