@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning Full Stack Development ,IOT and Big Data
 - 👯 I’m looking to collaborate on any good StartUp
-- 🤔 I’m looking for help to emerge from Procastination 
 - 📫 You can reach at: ronakprajapati107@gmail.com 
 - 🎆 I'm Open for New Opportunities.
 
